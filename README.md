@@ -14,16 +14,9 @@ Flashcards](https://jasdumas.github.io/2017-05-02-twitter-ml-flashcards/))
 to wrangle all those images into a nice collection - mostly for me to
 look at for inspiration in recipe planning.
 
-<blockquote class="twitter-tweet" data-lang="en">
-<p lang="en" dir="ltr">
-Yum! Have you ever thought about collecting all these recipes & images
-into a cookbook?!
-</p>
-— Jasmine Dumas (@jasdumas)
-<a href="https://twitter.com/jasdumas/status/952971103990898689?ref_src=twsrc%5Etfw">January
-15, 2018</a>
-</blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Yum! Have you ever thought about collecting all these recipes &amp; images into a cookbook?!</p>&mdash; Jasmine Dumas (@jasdumas) <a href="https://twitter.com/jasdumas/status/952971103990898689?ref_src=twsrc%5Etfw">January 15, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Source Repository:
 [jasdumas/bobs-noms](https://github.com/jasdumas/bobs-noms)
 
